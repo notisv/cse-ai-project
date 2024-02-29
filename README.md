@@ -5,4 +5,4 @@ The project was developed for the [Artificial Intelligence](https://www.cse.uoi.
 Question 1 is about implementing UCS and A* algorithms to tackle a search problem, as well as creating an efficient heuristic h(n) function.
 
 ## Question 2
-Question 2 is about utilizing the minimax algorithm to create a 3x3 SOS game (tic-tac-toe variant).
+Question 2 is about utilizing the minimax algorithm to create a 3x3 SOS game (tic-tac-toe variant)
